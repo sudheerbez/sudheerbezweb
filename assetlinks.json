@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "team.tarak.trust",
+    "sha256_cert_fingerprints":
+    ["8B:83:06:4F:38:A6:09:25:52:4F:C8:FE:7C:6F:17:86:E9:C8:C6:47:C5:F5:E4:EB:82:A3:89:B5:0F:98:30:3D"]
+  }
+}]
