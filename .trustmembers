@@ -7,7 +7,7 @@
   "contributors": [
     {
       "login": "founder",
-      "name": "MANU YARLAGADDA ™",
+      "name": "MANU YARLAGADDA",
       "avatar_url": "https://raw.githubusercontent.com/sudheerbez/sudheerbezweb/master/tttmembers/manoj%20founder.png",
       "profile": "https://twitter.com/mkyarlagadda",
       "contributions": [
@@ -26,8 +26,8 @@
       ]
     },
     {
-      "login": "sanjailal",
-      "name": "Sanjai Lal T S",
+      "login": "Founder",
+      "name": "Ajay",
       "avatar_url": "https://avatars1.githubusercontent.com/u/38038951?v=4",
       "profile": "https://github.com/sanjailal",
       "contributions": [
@@ -56,8 +56,8 @@
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "amrita-repository",
-  "projectOwner": "rajkumaar23",
+  "projectName": "teamtaraktrust",
+  "projectOwner": "sudheerbez",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
