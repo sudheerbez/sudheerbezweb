@@ -153,6 +153,60 @@
         "code",
         "design"
       ]
+    },
+    {
+      "login": "Ongole Coordinator",
+      "name": "Naveen",
+      "avatar_url": "https://raw.githubusercontent.com/sudheerbez/sudheerbezweb/master/tttmembers/Naveen%20Ongole%20Coordinator.jpeg",
+      "profile": "https://twitter.com/peddi_vikram",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "EastGodavari Coordinator",
+      "name": "Prasad Yadav",
+      "avatar_url": "https://raw.githubusercontent.com/sudheerbez/sudheerbezweb/master/tttmembers/Prasad%20Yadav%20East%20Godavari.jpeg",
+      "profile": "https://github.com/sanjailal",
+      "contributions": [
+        "code"
+      ]
+    },
+     {
+      "login": "Srikakulam Coordinator",
+      "name": "Bhaskar",
+      "avatar_url": "https://github.com/sudheerbez/sudheerbezweb/blob/master/tttmembers/Bhaskar%20Srikakulam%20Coordinator.jpg",
+      "profile": "https://sudheerbez.com",
+      "contributions": [
+        "code"
+      ]
+    },
+     {
+      "login": "Anantapur coordinator",
+      "name": "Bharatwaj",
+      "avatar_url": "https://github.com/sudheerbez/sudheerbezweb/blob/master/tttmembers/Bharatwaj%20Anantapur.jpeg",
+      "profile": "https://github.com/sanjailal",
+      "contributions": [
+        "code"
+      ]
+    },
+     {
+      "login": "Hyderbad Coordinator",
+      "name": "Vamsi",
+      "avatar_url": "https://github.com/sudheerbez/sudheerbezweb/blob/master/tttmembers/Vamsi%20Hyderbad%20Coordinator.jpeg",
+      "profile": "https://twitter.com/peddi_vikram",
+      "contributions": [
+        "code"
+      ]
+    },
+      {
+      "login": "Guntur Coordinator",
+      "name": "Chaganti Srinivas",
+      "avatar_url": "https://github.com/sudheerbez/sudheerbezweb/blob/master/tttmembers/Chaganti%20Srinivas.jpg?raw=true",
+      "profile": "https://github.com/sanjailal",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 70,
