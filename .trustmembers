@@ -219,15 +219,6 @@
         "code"
       ]
     },
-     {
-      "login": "vizag",
-      "name": "Akhil",
-      "avatar_url": "https://github.com/sudheerbez/sudheerbezweb/blob/master/tttmembers/Akhil%20Vizag.jpg",
-      "profile": "https://github.com/sanjailal",
-      "contributions": [
-        "code"
-      ]
-    },
   ],
   "contributorsPerLine": 70,
   "projectName": "teamtaraktrust",
