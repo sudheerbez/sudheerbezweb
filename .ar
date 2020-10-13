@@ -1,0 +1,45 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Teacher-1",
+      "name": "The Home Tutor",
+      "avatar_url": "https://raw.githubusercontent.com/sudheerbez/sudheerbezweb/master/tttmembers/manoj%20founder.png",
+      "profile": "https://www.linkedin.com/in/the-home-tutor/?trk=people_directory&originalSubdomain=in",
+      "contributions": [
+        "doc",
+        "design",
+        "code"
+      ]
+    },
+    {
+      "login": "Teacher-2",
+      "name": "Josie King",
+      "avatar_url": "https://raw.githubusercontent.com/sudheerbez/sudheerbezweb/master/tttmembers/vikram%20founder.png",
+      "profile": "https://www.linkedin.com/in/josieking/",
+      "contributions": [
+        "code"
+      ]
+    },
+    
+     {
+      "login": "Teacher-3",
+      "name": "Matthew Simmonds",
+      "avatar_url": "https://raw.githubusercontent.com/sudheerbez/sudheerbezweb/master/tttmembers/ajay%20founder.jpeg",
+      "profile": "https://www.linkedin.com/in/matthew-r-simmonds/",
+      "contributions": [
+        "code"
+      ]
+    },
+],
+  "contributorsPerLine": 70,
+  "projectName": "teamtaraktrust",
+  "projectOwner": "sudheerbez",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
