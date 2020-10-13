@@ -25,17 +25,16 @@
         "code"
       ]
     },
-    
-     {
-      "login": "Teacher-3",
-      "name": "Matthew Simmonds",
-      "avatar_url": "https://raw.githubusercontent.com/sudheerbez/sudheerbezweb/master/tttmembers/ajay%20founder.jpeg",
-      "profile": "https://www.linkedin.com/in/matthew-r-simmonds/",
+    {
+      "login": "Kammam Coordinator",
+      "name": "Tony",
+      "avatar_url": "https://raw.githubusercontent.com/sudheerbez/sudheerbezweb/master/tttmembers/IMG-20200612-WA0334.jpg",
+      "profile": "https://github.com/sanjailal",
       "contributions": [
         "code"
       ]
-    },
-],
+    }
+  ],
   "contributorsPerLine": 70,
   "projectName": "teamtaraktrust",
   "projectOwner": "sudheerbez",
