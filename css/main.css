@@ -767,10 +767,12 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   
   #education h2 {
     text-align: center;
+    
     margin-bottom: 30px;
   }
   
   #education article {
+    text-align: center;
     margin-bottom: 20px;
   }
   
