@@ -3458,3 +3458,14 @@ footer {
     padding-bottom: 1rem !important;
 }
 
+/* Reduce gap between profile image and bio/skills sections */
+.s-about .section-intro {
+    padding-bottom: 1rem !important;
+    margin-bottom: 0 !important;
+}
+
+.s-about .about-content {
+    margin-top: 0 !important;
+    padding-top: 1rem !important;
+}
+
